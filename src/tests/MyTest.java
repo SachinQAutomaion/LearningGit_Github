@@ -7,7 +7,8 @@ public class MyTest
 	{
 		String s="sunil shetty";
 		System.out.println(s);
-
+     String s1="anna";
+     System.out.println(s1);
 	}
 
 }
