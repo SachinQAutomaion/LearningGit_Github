@@ -9,6 +9,9 @@ public class MyTest
 		System.out.println(s);
      String s1="anna";
      System.out.println(s1);
+     System.out.println("Anna salary is 1 karaod per six month");
+    String dou ="alisha";
+    System.out.println(dou);
 	}
 
 }
